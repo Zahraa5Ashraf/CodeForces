@@ -12,6 +12,6 @@ if anton>danik:
 elif danik>anton:
     w = "Danik"
 else:
-    w = "friendship"
+    w = "Friendship"
 print(w)
  

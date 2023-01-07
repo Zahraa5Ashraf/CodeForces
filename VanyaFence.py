@@ -1,17 +1,10 @@
-n= int(input("Enter number of games played"))
-s= input("Enter initial of each winner") #for string array
-anton=0
-danik=0
-w= ""
-for i in s:
-	if i =="A" : anton+=1
-	if i =="D" : danik+=1
-	
-if anton>danik:
-    w ="Anton"
-elif danik>anton:
-    w = "Danik"
-else:
-    w = "friendship"
+# user enter values
+n= int(input("text")) 
+h= int(input("text"))
+#enter from user into list
+friends= list(map(int, input("text").split()))
+w=0  #define width variable
+for i in friends:
+	if i>h : w+=2
+	else: w+=1
 print(w)
- 

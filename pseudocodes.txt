@@ -30,3 +30,15 @@ a=3a
 b=2b
 count y++
 
+----------
+Team
+----------
+
+input int n
+for loop in n
+input int map split
+for loop in the map
+if 1 count +
+else do nothing
+if count >=2
+problems+

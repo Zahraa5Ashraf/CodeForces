@@ -1,7 +1,7 @@
 | Problem | Code |
 | --- | --- |
-| `Vanya Fence` | List all *new or modified* files |
-| `Anton Dnaik` | AntonDanik.py |
-| `Limak&Bob` | Show file differences that **haven't been** staged |
-| `Team` | Show file differences that **haven't been** staged |
-| `Gravity Flip` | Show file differences that **haven't been** staged |
+| `Vanya Fence` | [VanyaFence.py](https://github.com/Zahraa5Ashraf/CodeForces/blob/main/problems/VanyaFence.py/)|
+| `Anton Dnaik` | [AntonDanik.py](https://github.com/Zahraa5Ashraf/CodeForces/blob/main/problems/AntonDanik.py/) |
+| `Limak&Bob` | [limak&bob.py](https://github.com/Zahraa5Ashraf/CodeForces/blob/main/problems/limak%26bob.py/) |
+| `Team` | [Team.py](https://github.com/Zahraa5Ashraf/CodeForces/blob/main/problems/Team.py/) |
+| `Gravity Flip` | [Gravityflip.py](https://github.com/Zahraa5Ashraf/CodeForces/blob/main/problems/gravity%20flip.py/)|

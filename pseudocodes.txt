@@ -42,3 +42,9 @@ if 1 count +
 else do nothing
 if count >=2
 problems+
+
+----------
+Gravity flip
+----------
+
+sort the array dumbass!

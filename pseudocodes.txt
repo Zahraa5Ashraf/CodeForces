@@ -48,3 +48,18 @@ Gravity flip
 ----------
 
 sort the array dumbass!
+
+-------------------  
+Boy or Girl
+-------------------
+enter string in array
+use function set to count the distinct letters
+compare str if odd or even using %2==0
+
+--------------------
+Word
+--------------------
+string methods
+upper() lower() isupper() islower()
+casefold(), etc
+
